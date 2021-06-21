@@ -1,0 +1,1 @@
+# nservicebus-roslyn-analyzer-test
